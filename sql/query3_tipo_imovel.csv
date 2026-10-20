@@ -1,0 +1,5 @@
+room_type,total_listings,preco_medio,ocupacao_media_mensal,ocupacao_minima,ocupacao_maxima,desvio_padrao
+Private room,2807,131.36,1.48,0.01,34.25,2.67
+Entire home/apt,8957,256.62,1.69,0.01,76.19,2.1
+Hotel room,58,227.48,2.24,0.02,16.3,3.02
+Shared room,113,75.62,4.15,0.02,117.46,12.15
