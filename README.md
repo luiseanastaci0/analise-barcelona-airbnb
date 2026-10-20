@@ -51,7 +51,19 @@ A ocupação é estimada pela coluna `reviews_per_month`. Não é a taxa real de
 2. Existe um preço que vende mais?
   O preço entre €200-€299 tem a maior ocupação média (2,39). As faixas mais baratas ficam abaixo de 1.
 
-3. Qual tipo de imóvel tem melhor ocupação?
+
+## Contato e Feedback
+
+Autor: Luíse Anastácio
+
+LinkedIn: https://www.linkedin.com/in/luiseanastaci0
+
+Email: luiseanastacio.dataanalyst@gmail.com
+
+
+
+
+4. Qual tipo de imóvel tem melhor ocupação?
    Apartamentos inteiros concentram o maior volume, (8.957 imóveis) e ocupação média de 1,69 com desvio padrão baixo de 2,1.
    Quartos compartilhados têm a maior média, (4.15), mas são apenas 113 imóveis e o desvio é muito alto (12.15), tornando o resultado instável. 
 
