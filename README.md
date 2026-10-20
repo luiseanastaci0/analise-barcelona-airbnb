@@ -6,6 +6,10 @@ Análise de ocupação de imóveis do Airbnb em Barcelona, usando SQL (BigQuery)
 
 ![Painel Looker Studio](images/painel.png)
 
+## Problema de negócio
+
+Um anfitrião que entra no Airbnb em Barcelona precisa decidir em que bairro anunciar, qual preço cobrar e que tipo de imóvel oferecer. Escolhas ruins podem deixar o imóvel vazio por muito tempo, o que pode reduzir a receita. Este projeto busca identificar quais características estão associadas a maior taxa de ocupação, para orientar essas decisões.
+
 ## Pergunta central
 
 Quais características de um imóvel em Barcelona estão associadas a maior taxa de ocupação?
