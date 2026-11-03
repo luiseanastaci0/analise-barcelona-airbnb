@@ -58,7 +58,9 @@ A ocupação é estimada pela coluna `reviews_per_month`. Não é a taxa real de
 Ressalva: o quarto compartilhado tem a maior média (4,15), mas apenas 113 imóveis, então o resultado é instável (desvio padrão 12,15).
 
 
+## Conclusão
 
+Para um anfitrião que busca alta ocupação na cidade de Barcelona, apartamentos inteiros na faixa de €200-€299 se destacam. Provençals del Poblenou teve a maior ocupação entre bairros com 10 ou mais imóveis mas como conta com apenas 71 imóveis, a escolha do bairro deve ser verificada antes da decisão.
 
 ## Contato e Feedback
 
